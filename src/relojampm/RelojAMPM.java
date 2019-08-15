@@ -33,6 +33,7 @@ public class RelojAMPM {
                     segundosIngreso=0;
 
                 }
+                minitosIngreso=0;
             }
 
         }
